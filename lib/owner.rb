@@ -63,6 +63,9 @@ class Owner
     end
   end
   
+  def list_pets
+    cats.select do {|pet| pet.
+  end
   
   
 end
