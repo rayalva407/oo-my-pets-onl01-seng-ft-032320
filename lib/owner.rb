@@ -64,7 +64,8 @@ class Owner
   end
   
   def list_pets
-    cats.select do {|pet| pet.
+    "I have #{self.dogs.length} dog(s), and #{self.cats.length} cat(s)."
+    
   end
   
   
