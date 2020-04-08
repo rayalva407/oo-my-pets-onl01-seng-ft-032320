@@ -49,7 +49,9 @@ class Owner
     @dogs = []
   end
   
-  def walk_
+  def walk_dogs
+    
+  end
   
   
   
