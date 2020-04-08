@@ -36,6 +36,9 @@ class Owner
     Dog.new(name, self)
   end
   
+  def sell_pets
+    
+  end
   
   
   
