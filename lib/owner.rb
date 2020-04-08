@@ -42,6 +42,11 @@ class Owner
       cat.owner = nil
     end
     cats = []
+    dogs.each do |dog|
+      dog.mood = "nervous"
+      dog.owner = nil
+    end
+    dogs = []
   end
   
   
